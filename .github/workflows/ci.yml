@@ -77,7 +77,7 @@ jobs:
   deploy-image-uat:
     needs: [build-and-scan-image]
     name: "Deployed image to uat"
-    uses: sufiyannnn/ci-cd-container/.github/workflows/cd.yml@main
+    uses: sufiyansenin/cicd-110524/.github/workflows/cd.yml@main
     with:
       target_env: "uat"
       action: "deploy"
