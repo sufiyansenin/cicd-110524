@@ -1,0 +1,5 @@
+ecs_cluster_name     = "sufiyan-ecs-cluster-uat"
+ecs_service_name     = "sufiyan-ecs-service-uat"
+ecs_task_defn_family = "sufiyan-ecs-task-def-uat"
+ecs_container_name   = "sufiyan-container-uat"
+ecs_port_name        = "sufiyan-3000-tcp-uat"

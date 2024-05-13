@@ -1,0 +1,5 @@
+ecs_cluster_name     = "sufiyan-ecs-cluster-dev"
+ecs_service_name     = "sufiyan-ecs-service-dev"
+ecs_task_defn_family = "sufiyan-ecs-task-def-dev"
+ecs_container_name   = "sufiyan-container-dev"
+ecs_port_name        = "sufiyan-3000-tcp-dev"
